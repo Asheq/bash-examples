@@ -1,6 +1,6 @@
 ### Instructions
-Open terminal and start bash if it isn't already running
+Open terminal and start bash if it isn't already running.
 
-`chmod +x *.sh`
+1. `chmod +x *.sh`
 
-`./process1.sh | ./process2.sh`
+2. `./process1.sh | ./process2.sh`
